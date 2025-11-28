@@ -14,7 +14,7 @@ size = 12.0
 background = "#000000"
 foreground = "#B5E631"
 # slightly darker / desaturated foreground for "dim" text
-dim_foreground = "#A9B285"
+dim_foreground = "#99A91D"
 
 [colors.cursor]
 text = "#000000"          # use terminal background for contrast
