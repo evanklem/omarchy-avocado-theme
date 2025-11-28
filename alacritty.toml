@@ -1,0 +1,30 @@
+# ---- Avocado Theme ---- #
+
+[window]
+# window padding {px}
+padding.x = 12
+padding.y = 12
+
+[font]
+size = 12.0
+
+[colors]
+[colors.primary]
+# background and foreground
+background = "#000000"    # 000000
+foreground = "#F2FFBE"    # F2FFBE (main foreground)
+# slightly darker / desaturated foreground for "dim" text
+dim_foreground = "#A9B285"
+
+[colors.cursor]
+text = "#000000"          # use terminal background for contrast
+cursor = "#B5E631"        # primary accent
+
+[colors.vi_mode_cursor]
+text = "#000000"
+cursor = "#B5E631"
+
+[colors.selection]
+text = "CellForeground"
+background = "#160000"    # secondary backgroun
+

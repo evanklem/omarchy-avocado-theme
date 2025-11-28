@@ -1,0 +1,8 @@
+/* ---- Avocado Theme ---- */
+
+@define-color background-color #160000;  /* secondary background (deep red-black) */
+@define-color border-color     #B5E631;  /* primary accent */
+@define-color label            #F2FFBE;  /* foreground text */
+@define-color image            #B5E631;  /* primary accent for icons/images */
+@define-color progress         #3EAE0A;  /* success green for progress bars */
+

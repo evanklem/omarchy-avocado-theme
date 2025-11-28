@@ -1,0 +1,68 @@
+# Avocado theme 
+
+# Main background / foreground
+theme[main_bg]        = "#000000"
+theme[main_fg]        = "#F2FFBE"
+
+# Title / highlight
+theme[title]          = "#B5E631"    # primary accent for titles
+theme[hi_fg]          = "#000000"
+theme[hi_bg]          = "#B5E631"
+
+# Selection / highlight for lists (if used)
+theme[selected_bg]    = "#99A91D"    # secondary accent
+theme[selected_fg]    = "#000000"
+
+# Inactive / disabled text
+theme[inactive_fg]    = "#666666"    # a mid-gray (optional; adjust darkness as needed)
+
+# Graph text (labels/numbers on graphs)
+theme[graph_text]     = "#F2FFBE"
+
+# Box outlines / borders / meter backgrounds
+theme[meter_bg]       = "#000000"
+theme[cpu_box]        = "#000000"
+theme[mem_box]        = "#000000"
+theme[net_box]        = "#000000"
+theme[proc_box]       = "#000000"
+
+# Process list (text and selection)
+theme[proc_fg]        = "#F2FFBE"
+theme[proc_misc]      = "#99A91D"
+
+# Divider / line colors
+theme[div_line]       = "#3A3A3A"
+
+# Gradients for CPU / memory / temp / network meters
+theme[temp_start]     = "#003300"
+theme[temp_mid]       = "#3EAE0A"
+theme[temp_end]       = "#E6654F"
+
+theme[cpu_start]      = "#003300"
+theme[cpu_mid]        = "#3EAE0A"
+theme[cpu_end]        = "#B5E631"
+
+theme[free_start]     = "#003300"
+theme[free_mid]       = "#99A91D"
+theme[free_end]       = "#B5E631"
+
+theme[cached_start]   = "#003300"
+theme[cached_mid]     = "#99A91D"
+theme[cached_end]     = "#B5E631"
+
+theme[available_start] = "#003300"
+theme[available_mid]   = "#99A91D"
+theme[available_end]   = "#B5E631"
+
+theme[used_start]      = "#003300"
+theme[used_mid]        = "#3EAE0A"
+theme[used_end]        = "#B5E631"
+
+theme[download_start]  = "#003300"
+theme[download_mid]    = "#99A91D"
+theme[download_end]    = "#B5E631"
+
+theme[upload_start]    = "#003300"
+theme[upload_mid]      = "#99A91D"
+theme[upload_end]      = "#B5E631"
+

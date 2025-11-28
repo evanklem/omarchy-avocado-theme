@@ -1,0 +1,12 @@
+/* ---- Avocado Theme ---- */
+
+@define-color selected-text #B5E631;               /* primary green accent */
+@define-color text #F2FFBE;                        /* light yellow foreground */
+@define-color base #160000;                        /* secondary background deep red-black panel */
+@define-color border #B5E631;                      /* primary green accent */
+@define-color foreground #F2FFBE;                  /* light yellow foreground */
+@define-color background #000000;                  /* main background black */
+
+@define-color selection-bg rgba(181,230,49,0.15);  /* primary green semi-transparent selection */
+@define-color hover-bg rgba(181,230,49,0.07);      /* primary green subtle hover */
+
