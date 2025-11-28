@@ -40,7 +40,7 @@ return {
 				vim.api.nvim_set_hl(0, "CursorLine", { bg = "#160000" })
 				vim.api.nvim_set_hl(0, "CursorLineNr", { fg = colors.primary, bold = true })
 				vim.api.nvim_set_hl(0, "LineNr", { fg = colors.muted })
-				vim.api.nvim_set_hl(0, "Visual", { bg = "#3EAE0A33" }) -- semi-transparent selection
+				vim.api.nvim_set_hl(0, "Visual", { bg = "#3EAE0A" }) 
 				vim.api.nvim_set_hl(0, "Search", { fg = colors.bg, bg = colors.primary })
 				vim.api.nvim_set_hl(0, "IncSearch", { fg = colors.bg, bg = colors.secondary })
 				vim.api.nvim_set_hl(0, "Pmenu", { fg = colors.fg, bg = "#160000" })
