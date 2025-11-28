@@ -11,8 +11,8 @@ size = 12.0
 [colors]
 [colors.primary]
 # background and foreground
-background = "#000000"    # 000000
-foreground = "#F2FFBE"    # F2FFBE (main foreground)
+background = "#000000"
+foreground = "#B5E631"
 # slightly darker / desaturated foreground for "dim" text
 dim_foreground = "#A9B285"
 
@@ -26,5 +26,5 @@ cursor = "#B5E631"
 
 [colors.selection]
 text = "CellForeground"
-background = "#160000"    # secondary backgroun
+background = "#160000"    # secondary background
 
