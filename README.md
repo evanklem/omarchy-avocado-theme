@@ -38,7 +38,7 @@ This theme was born out of necessity and a little bit of creativity. My Linux se
 | Red    | #E6654F | #FF0040 | Error / warm red |
 | Green  | #3EAE0A | #B5E631 | Success / primary green |
 | Yellow | #EAA621 | #EFE653 | Warning / info yellow |
-| Blue   | #00BFFF | #1E90FF | Accent blue (optional) |
+| Blue   | #00BFFF | #1E90FF | Accent blue|
 | Magenta| #99A91D | #B5E631 | Secondary green accent |
 | Cyan   | #EFE653 | #99A91D | Info / soft yellow-green |
 | White  | #F2FFBE | #FFFFFF | Light foreground / highlights |
