@@ -1,5 +1,4 @@
-<img width="2558" height="1440" alt="AvocadoWallpaper4" src="backgrounds/AvocadoWallpaper4.png" />
-# Avocado Theme
+## Avocado Theme
 
 This theme was born out of necessity and a little bit of creativity. My Linux setup doesn’t fully support the RGB drivers for my laptop yet, so all my LEDs are stuck on green for now. Instead of fighting it, I decided to embrace it and build a theme around that color. The result is **Avocado**: a dark, modern look that leans heavily into vibrant green accents and complementary warm yellows. It’s high-contrast and minimal, with subtle blur and shadow effects that make the workspace feel sleek and cohesive.
 
@@ -52,6 +51,7 @@ This theme was born out of necessity and a little bit of creativity. My Linux se
 - **Minimal Noise:** Focused workspace without distractions    
 
 ## Wallpapers
+<img width="2558" height="1440" alt="AvocadoWallpaper4" src="backgrounds/AvocadoWallpaper4.png" />
 
 Includes **3 original wallpapers** created to complement this theme.  
 
