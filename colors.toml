@@ -1,0 +1,35 @@
+# Avocado — Omarchy 4 palette
+mode = "dark"
+
+accent = "#B5E631"
+selection = "#3A3A3A"
+muted = "#666666"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#160000"
+
+foreground = "#F2FFBE"
+dark_foreground = "#99A91D"
+light_foreground = "#F2FFBE"
+bright_foreground = "#FFFFFF"
+
+red = "#E6654F"
+yellow = "#EAA621"
+orange = "#EAA621"
+green = "#3EAE0A"
+cyan = "#EFE653"
+blue = "#00BFFF"
+magenta = "#99A91D"
+brown = "#99A91D"
+
+bright_red = "#FF0040"
+bright_yellow = "#EFE653"
+bright_green = "#B5E631"
+bright_cyan = "#99A91D"
+bright_blue = "#1E90FF"
+bright_magenta = "#B5E631"
+
+hyprland_active_border = "rgb(B5E631) rgb(99A91D)"
+hyprland_inactive_border = "rgb(160000) rgb(000000)"

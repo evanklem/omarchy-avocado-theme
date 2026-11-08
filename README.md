@@ -40,9 +40,13 @@ This theme was born out of necessity and a little bit of creativity. My Linux se
 ## Wallpapers
 <img width="2558" height="1440" alt="AvocadoWallpaper4" src="backgrounds/AvocadoWallpaper4.png" />
 
-Includes **3 original wallpapers** created to complement this theme.  
+Includes **4 original wallpapers** created to complement this theme.  
 
 ## Installation
 
 Paste the link to this page (https://github.com/evanklem/omarchy-avocado-theme) into your omarchy theme installer.
+
+## Omarchy 4
+
+Omarchy 4 themes the whole desktop from `colors.toml`, which this theme now ships. The legacy Waybar, Walker, Mako and `hyprland.conf` files are kept for older Omarchy versions; Omarchy 4 ignores them.
 

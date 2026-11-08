@@ -28,3 +28,23 @@ cursor = "#B5E631"
 text = "CellForeground"
 background = "#160000"    # secondary background
 
+
+[colors.normal]
+black = "#000000"
+red = "#E6654F"
+green = "#3EAE0A"
+yellow = "#EAA621"
+blue = "#00BFFF"
+magenta = "#99A91D"
+cyan = "#EFE653"
+white = "#F2FFBE"
+
+[colors.bright]
+black = "#1A1A1A"
+red = "#FF0040"
+green = "#B5E631"
+yellow = "#EFE653"
+blue = "#1E90FF"
+magenta = "#B5E631"
+cyan = "#99A91D"
+white = "#FFFFFF"
